@@ -1,0 +1,7 @@
+on importe d'abord products ensuite order_details car l'id du produit se met dans order_details en fonction du produit 
+aprés on envoi countrie qui n'est pas lier direct
+
+Colonnes séparées par : ;
+
+
+Colonnes échappées avec : /
